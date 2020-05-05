@@ -1,3 +1,5 @@
+//Copyright (April 2020 - present) Erik Douglas Ward
+
 package com.eeshvardas.claypotveda;
 
 final class MakeIndexHtml {
